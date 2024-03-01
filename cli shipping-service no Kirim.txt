@@ -1,0 +1,5 @@
+docker build -t ghcr.io/hafidhuddien3/shipping-service:v1 .
+
+docker login ghcr.io -u hafidhuddien3
+
+docker push ghcr.io/hafidhuddien3/shipping-service:v1

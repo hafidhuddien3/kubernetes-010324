@@ -1,0 +1,6 @@
+
+shipping-service:
+ghcr.io/hafidhuddien3/shipping-service:v1
+
+order-service:
+ghcr.io/hafidhuddien3/order-service:v1

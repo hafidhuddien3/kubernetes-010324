@@ -1,0 +1,5 @@
+docker build -t ghcr.io/hafidhuddien3/order-service:v1 .
+
+docker login ghcr.io -u hafidhuddien3 --password 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
+
+docker push ghcr.io/hafidhuddien3/order-service:v1
